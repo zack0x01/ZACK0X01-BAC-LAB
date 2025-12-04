@@ -94,6 +94,5 @@ Find and exploit **2 vulnerabilities**:
 
 This lab is for **EDUCATIONAL PURPOSES ONLY**. Use responsibly and only on systems you own or have explicit permission to test.
 
----
 
 **Happy Hacking! 🎉**
